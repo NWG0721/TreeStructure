@@ -1,4 +1,6 @@
-﻿namespace TreeStructure.Con
+﻿using TreeStructure.Con.LogicHandler;
+
+namespace TreeStructure.Con
 {
     public class Program
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TreeStructure.Con
+namespace TreeStructure.Con.TreeEntity
 {
 	public class Node
 	{
